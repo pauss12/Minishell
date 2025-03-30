@@ -22,7 +22,7 @@ Compila el proyecto con:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone git@github.com:pauss12/Minishell.git
 cd minishell
 
 # Compilar el proyecto
